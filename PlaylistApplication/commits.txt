@@ -1,0 +1,9 @@
+* 47b871d (HEAD -> master, origin/master) Final commit
+* d86c5e5 Added map reduce, routes for update and delete of embedded objects
+* c627411 Added new routes for update
+* 5554a99 (origin/ektorp, ektorp) Set up routes for update
+* 2363131 configured all routes
+* 424e312 added songs controller
+* 5acd936 added delete
+* d856e5a added get,create,delete
+* b2b235e Initial commit

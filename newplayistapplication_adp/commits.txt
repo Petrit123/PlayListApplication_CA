@@ -1,0 +1,7 @@
+* f036fbb (HEAD -> master, origin/master) Final commit
+* 7f0176a Added copyright symbol
+* b8dde9e added update and delete of embedded objects
+* b3bcade Added two new forms and attempted to update embded objects
+* 6ae3d4c Adding functionality to handle updates of songs
+* d545792 finsihed front-end
+* c9cb868 Initial commit from Create React App
